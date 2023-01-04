@@ -1,29 +1,4 @@
-Skip to content
-Product
-Solutions
-Open Source
-Pricing
-Search
-Sign in
-Sign up
-rahulpatilgit
-/
-demo-deploy
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-demo-deploy/.github/workflows/aws.yml
-@rahulpatilgit
-rahulpatilgit Update aws.yml
-Latest commit 182f350 on Sep 18, 2022
- History
- 1 contributor
-93 lines (84 sloc)  4.39 KB
+
 
 # This workflow will build and push a new container image to Amazon ECR,
 # and then will deploy a new task definition to Amazon ECS, when there is a push to the "main" branch.
